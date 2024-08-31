@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/root/dev/fileManagement/build",
+  "command": "/usr/sbin/g++  -I/root/dev/fileManagement/includes -g -o CMakeFiles/app.dir/src/main.cpp.o -c /root/dev/fileManagement/src/main.cpp",
+  "file": "/root/dev/fileManagement/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.o"
+},
+{
+  "directory": "/root/dev/fileManagement/build",
+  "command": "/usr/sbin/g++  -I/root/dev/fileManagement/includes -g -o CMakeFiles/app.dir/src/commands.cpp.o -c /root/dev/fileManagement/src/commands.cpp",
+  "file": "/root/dev/fileManagement/src/commands.cpp",
+  "output": "CMakeFiles/app.dir/src/commands.cpp.o"
+}
+]

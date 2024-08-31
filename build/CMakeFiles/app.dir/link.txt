@@ -1,0 +1,1 @@
+/usr/sbin/g++ -g CMakeFiles/app.dir/src/main.cpp.o CMakeFiles/app.dir/src/commands.cpp.o -o app
